@@ -3,7 +3,6 @@
 该仓库主要是同步OpenWrt最新发行版，并迁移官方master分支的dnsmasq、nftables等依赖包，简而言之，就是升级了依赖包的版本。
 
 #
-#
 
 ![OpenWrt logo](include/logo.png)
 
